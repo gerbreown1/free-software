@@ -41,17 +41,17 @@ This is very easy to do: Just right click on the folder (generally the Inbox) an
 
 ## Using your accounts.
 
-### Email
+* Email
 
 Select account you want to use by clicking it in the list of accounts on the left side. In this list will be a number after the account name with the number of new messages in that account, so if there is NO number then there are NO new messages. At the left of the name will be an arrow that when clicked will drop down the folders within the account.
 
 A new window will open on the right hand side.  In this window there will be a number of options for you to do.
 
-#### Read messages
+*Read messages
 
 Click on this and it will show you all of the messages in that account. The new messages will be in the bold font and the read ones will be in a normal font.
 
-#### Write a new message
+*Write a new message
 
 This is where you can send a message to one or more persons.  It will have the **From:** field filled in with your name and email address as was entered when the account was created in Thunderbird. At the right side of this field will be arrows that you can click to scroll up or down to select another address to be in the From section of the message.
 
@@ -65,7 +65,7 @@ If you use the words **Attach** or **Attachment** in the body of the message a b
 
 ### Accounts
 
-#### View settings for this account
+*View settings for this account
 
 Here you can view and change settings for this account on the Account Settings page.
 
@@ -81,19 +81,19 @@ Here you can view and change settings for this account on the Account Settings p
 1. Set up the Outgoing Server
 1. Manage Identities
 
-#### Server settings
+*Server settings
 
 Here you can change your server settings.  The top text boxes should be kept with the defaults. The *Server Settings* check boxes can be changed depending on your preferences. Mine are set to check for new messages at startup, check for new messages every 10 minutes, and when I delete a message it is moved to Trash. Other options are to just mark it as deleted or remove it immediately.
 
 Message Storage has 2 additional boxes which can be checked or not depending on your preferences. One that I don't know what it means is to Clean up ("Expunge") Inbox on exit. The other check box is to Empty Trash on Exit. I have this checked on some accounts and off on others. This probably would be a good option to have checked ON.
 
-#### Copies & Folders
+* Copies & Folders
 This option is where you can specify where messages can be stored.  I have just accepted the defaults, but you can change them as you prefer.
 
-#### Composition & Addressing
+* Composition & Addressing
 This option I just accepted the defaults but you can change them as needed.  They are self explanatory. 
 
-#### Junk Settings
+* Junk Settings
 
 Here you can set your junk settings such as:
 
@@ -105,15 +105,15 @@ Here you can set your junk settings such as:
 
 1. Destination and Retention. This will have several options on what you want done to junk messages. You can move the new junk messages to the Junk folder on the account or to another folder that you specify. You can also tell Thunderbird to automatically delete junk mail older than X days. The default is set at 14 days so you can check and verify that it really is junk and NOT mis-labeled.
 
-#### Synchronization & Storage
+* Synchronization & Storage
 The first check box will be "Keep messages for this account on this computer." There will be an "Advanced" button that when clicked will open a box with a title of "Items for Offline Use".  In this box will be a list of folders from each account where you can select which folder(s) to keep on your system. Just click the "OK" button when done.
 
 There also options to be set to save Disk Space. I have accepted the defaults.
 
-#### Return Receipts
+* Return Receipts
 You can either use your global return receipt preferences for this account. There is also a button that when clicked will bring up your Global Thunderbird preferences. That is why it is called the "Global Preferences..." button.
  
-#### And Finally the Security Options
+* And Finally the Security Options
 This has to do with Digital Signing, Encryption and Certificates.  I have not made any changes on this form.
 
 There is another button outside of the list labeled "Account Actions" which has a drop down list of additional actions such as:
@@ -158,5 +158,3 @@ Clicking on this will open a new window where you can:
 1. Delete selected item
 
 Now that you know everything about Thunderbird, I hope you enjoy using it for managing all of your email accounts.
-
-If you have any comments, questions or suggestions about this please send an email to "author@gerbreown.com".

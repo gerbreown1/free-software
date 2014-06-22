@@ -1,12 +1,12 @@
 # FREE Software - 7zip
 
-## What it is: 
-A program that will create compressed archives of the files you select.
+## What can it do for you?
+This will create compressed archives of the files you select.  The original files can then be deleted or moved to another source thereby saving disk space for you.
 
-## What Operating System is it for: 
+## What Operating System is it for? 
 Linux (Numerous distros), Mac OS X and Windows (Numerous versions)
 
-## Where to get it: 
+## Where can you to get it? 
 [http://www.7-zip.org/download.html](http://www.7-zip.org/download.html)
 At this page you can select the correct version for your operating system.
 
