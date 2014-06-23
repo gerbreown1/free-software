@@ -1,4 +1,4 @@
-# FREE Software - 7zip
+# 7zip
 
 ## What can it do for you?
 This will create compressed archives of the files you select.  The original files can then be deleted or moved to another source thereby saving disk space for you.

@@ -10,6 +10,7 @@ apache.md
 browsers.md
 calibre.md
 filezilla.md
+geany.md
 grisbi.md
 libreoffice.md
 mint.md
