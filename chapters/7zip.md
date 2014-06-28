@@ -1,12 +1,13 @@
 # 7zip
 
 ## What can it do for you?
-This will create compressed archives of the files you select.  The original files can then be deleted or moved to another source thereby saving disk space for you.
+This will create compressed archives of the files you select. The original files can then be deleted or moved to another source thereby saving disk space for you.
 
 ## What Operating System is it for? 
 Linux (Numerous distros), Mac OS X and Windows (Numerous versions)
 
-## Where can you to get it? 
+## Where can you to get it?
+
 [http://www.7-zip.org/download.html](http://www.7-zip.org/download.html)
 At this page you can select the correct version for your operating system.
 
@@ -27,7 +28,11 @@ At this page you can select the correct version for your operating system.
 
 ## Compression table
 
-On the web site is a table showing the compression ratios of various compressing programs.  For the same set of 161 files @ 15,684,168 bytes the compressed size is 4,621,135 for a ratio of 100%. The next competitor, WinRAR created a compressed size of 5,021,556 bytes. WinZip (maximum-portable) created a file of 6,448,666 bytes.
+On the web site is a table showing the compression ratios of various compressing programs.  
+
+For the same set of 161 files @ 15,684,168 bytes the compressed size is 4,621,135 for a ratio of 100%. 
+
+The next competitor, WinRAR created a compressed size of 5,021,556 bytes. WinZip (maximum-portable) created a file of 6,448,666 bytes.
 
 Quote from the 7-zip.org website: "Compression ratio results are very dependent upon the data used for the tests. Usually, 7-Zip compresses to 7z format 30-70% better than to zip format. And 7-Zip compresses to zip format 2-10% better than most of other zip compatible programs."
 

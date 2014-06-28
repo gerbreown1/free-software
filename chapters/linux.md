@@ -1,6 +1,6 @@
 # 9 Reasons why YOU should switch to Linux!
 
-##If you have already switched, then congratulations... 
+## If you have already switched, then congratulations... 
 For the rest of you please continue reading to learn why *YOU* should also switch.
 
 1. It is **FREE**. As in legally free or with an Open Source license (of which there are several).
@@ -25,8 +25,6 @@ There are many more reasons but I promised you 9 so that is what I have included
 There are many versions available as stated in #3 above so I have included the chart below.
 
  According to Distrowatch.com the following are the top 9 distributions (distros) as of December 17, 2013.
-
-
  
 \begin{tabular}{|l|l|l|}
   \hline
@@ -79,8 +77,6 @@ And check your wallet for all of the money you are saving instead of sending it 
 
 Several days after I posted this, I received the Christmas 2013 issue of Linux Format(LXF) magazine. In it was an article about the 5 best distributions for a new Linux user.  
 
-
-
 \begin{tabular}{|l|l|l|l|l|}
     \hline
 Rank & Name & Website & Rating & Comments \\
@@ -110,4 +106,4 @@ I had a look at at Zorin OS awhile ago and it looked pretty good, however I did 
 
 One reason that there are so many distros available is because of it being distributed as Open Source. This means that anyone can look at the source code and decides they can make the product better so they change the code to meet their requirements.  
 
-There are many charts showing the lineage of a particular distro. An example of this is where Debian begat Ubuntu, which begat Linux Mint as well as other distros. Fedora is another example as it has also begat a number of other distros.  
+There are many charts showing the lineage of a particular distro. An example of this is where Debian begat Ubuntu, which begat Linux Mint as well as other distros. Fedora is another example as it has also begat a number of other distros.

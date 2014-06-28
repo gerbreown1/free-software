@@ -3,11 +3,12 @@
 ## History
 This all started when I decided to create a blog site about the free software I have used. 
 
-I read a book called **Blog a Book**. This explained how to turn a blog into an ebook. 
+I then read a book called **Blog a Book**. This explained how to turn a blog into an ebook. 
 
 I then discovered an ebook creation system called **Softcover** so I decided to turn those blog posts into an ebook.
 
 ## The reason for the blog and book.
+
 I hoped that by publishing this book that you, the reader, can get more use from your computer without spending a lot of hard earned income by purchasing expensive *closed source* software when there is **FREE** *open source* software available.
 
 ### Who produces *closed source* software?
