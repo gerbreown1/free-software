@@ -1,8 +1,9 @@
 cover
 frontmatter:
 maketitle
+copyright.md
 tableofcontents
-# preface.md
+preface.md
 mainmatter:
 linux.md
 7zip.md

@@ -1,6 +1,4 @@
-# Thunderbird
-
-## No this is NOT about the vehicle produced by Ford Motor Company (FOMOCO).
+# How to manage your e-mails.
 
 ## This is about the email manager application produced by Mozilla, the company that also produces the web browser Firefox.
 
