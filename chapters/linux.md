@@ -24,30 +24,41 @@ There are many more reasons but I promised you 9 so that is what I have included
 ## What is Linux and where can you get it? 
 There are many versions available as stated in #3 above so I have included the chart below.
 
- According to Distrowatch.com the following are the top 9 distributions (distros) as of December 17, 2013.
+ According to [Distrowatch.com](Distrowatch.com) the following are the top 9 distributions (distros) as of December 17, 2013.
  
 \begin{tabular}{|l|l|l|}
   \hline
-Ranking & Name & Web site \\
+
+\pbox{3cm}{Ranking} & \pbox{9cm}{Name} & \pbox{9cm}{Web site} \\
   \hline
-1 & Linux Mint & http://linuxmint.com/ \\
+
+\pbox{3cm}{1} & \pbox{9cm}{Linux Mint} & \href{http://linuxmint.com/}{http://linuxmint.com/} \\
   \hline
-2 & Ubuntu & http://www.ubuntu.com \\
+
+\pbox{3cm}{2} & \pbox{9cm}{Ubuntu} & \href{http://www.ubuntu.com}{http://www.ubuntu.com} \\
   \hline
-3 & Fedora Project & http://fedoraproject.org \\
+
+\pbox{3cm}{3} & \pbox{9cm}{Fedora Project} & \href{http://fedoraproject.org}{http://fedoraproject.org} \\
   \hline
-4 & Debian GNU/Linux & http://www.debian.org \\
+  
+\pbox{3cm}{4} & \pbox{9cm}{Debian GNU/Linux} & \href{http://www.debian.org}{http://www.debian.org} \\
   \hline
-5 & openSUSE & http://www.opensuse.org \\
+  
+\pbox{3cm}{5} & \pbox{9cm}{openSUSE} & \href{http://www.opensuse.org}{http://www.opensuse.org} \\
   \hline
-6 & Arch Linux & http://www.archlinux.org \\
+  
+\pbox{3cm}{6} & \pbox{9cm}{Arch Linux} & \href{http://www.archlinux.org}{http://www.archlinux.org} \\
   \hline
-7 & PCLinuxOS & http://www.pclinuxdos.com \\
+  
+\pbox{3cm}{7} & \pbox{9cm}{PCLinuxOS} & \href{http://www.pclinuxdos.com}{http://www.pclinuxdos.com} \\
   \hline
-8 & CentOS & http://www.centos.org \\
+  
+\pbox{3cm}{8} & \pbox{9cm}{CentOS} & \href{http://www.centos.org}{http://www.centos.org} \\
   \hline
-9 & Mageia & http://www.mageia.org \\
+  
+\pbox{3cm}{9} & \pbox{9cm}{Mageia} & \href{http://www.mageia.org}{http://www.mageia.org} \\
    \hline  
+   
 \end{tabular}
 
 ## How do you install your selection?
@@ -78,31 +89,31 @@ And check your wallet for all of the money you are saving instead of sending it 
 Several days after I posted this, I received the Christmas 2013 issue of Linux Format(LXF) magazine. In it was an article about the 5 best distributions for a new Linux user.  
 
 \begin{tabular}{|l|l|l|l|l|}
+\hline
+    
+\pbox{3cm}{Rank} & \pbox{4cm}{Name} & \pbox{4cm}{Website} & \pbox{4cm}{Rating} & \pbox{4cm}{Comments} \\
     \hline
-Rank & Name & Website & Rating & Comments \\
+
+\pbox{3cm}{1} & \pbox{4cm}{Pinguy OS} & \href{http://pinguyos.com/}{http://pinguyos.com/} & \pbox{4cm}{5 stars} & \pbox{4cm}{A pleasant to use distro. Perfect for newbies.} \\
+    \hline    
+    
+\pbox{3cm}{2} & \pbox{4cm}{Zorin OS} & \href{http://zorin-os.com/}{http://zorin-os.com/} & \pbox{4cm}{5 stars} & \pbox{4cm}{Very thoughtful distro. Good for most new users. Similar to Windows 7.} \\
     \hline
-1 & Pinguy OS & http://pinguyos.com/ & 5 stars & A pleasant to use 
-    distro. 
-    Perfect for newbies. \\
+
+\pbox{3cm}{3} & \pbox{4cm}{Elementary OS} & \href{http://elementaryos.org/}{http://elementaryos.org/} & \pbox{4cm}{4 stars} & \pbox{4cm}{Nowhere near Pinguy or Zorin, but very usable.} \\
     \hline    
-2 & Zorin OS & http://zorin-os.com/ & 5 stars & Very thoughtful 
-    distro. Good for most new users. Similar to Windows 7. \\
+
+\pbox{3cm}{4} & \pbox{4cm}{Pear Linux} & \href{http://pearlinux.fr/}{http://pearlinux.fr/} & \pbox{4cm}{4 stars} & \pbox{4cm}{A little bit of effort could well put it on the podium.} \\
     \hline    
-3 & Elementary OS & http://elementaryos.org/ & 4 stars & Nowhere 
-    near Pinguy or Zorin, but very usable. \\
-    \hline    
-4 & Pear Linux & http://pearlinux.fr/ & 4 stars & A little bit of 
-    effort could well put it on the podium. \\
-    \hline    
-5 & SolusOS 3 & Website expired & 0 stars* & Web site has expired. 
-    Unable to find.\\
+
+\pbox{3cm}{5} & \pbox{4cm}{SolusOS 3} & \pbox{4cm}{Website expired} & \pbox{4cm}{0 stars*} & \pbox{4cm}{Web site has expired. Unable to find.} \\
     \hline
-\end{tabular}    
+\end{tabular}
 
 
-\* I gave SolusOS3 0 stars because the software was NOT available when I checked for it, LXF gave it 3 stars.  
+*I gave SolusOS3 0 stars because the software was NOT available when I checked for it, LXF gave it 3 stars.*
 
-I had a look at at Zorin OS awhile ago and it looked pretty good, however I did not continue using it. I don't remember the reason now but think it looked too simple, but would be good for a newbie.  
+I had a look at at Zorin OS awhile ago and it looked pretty good, however I did not continue using it. I don't remember the reason now but think it looked too simple, but would be good for a newbie.
 
 One reason that there are so many distros available is because of it being distributed as Open Source. This means that anyone can look at the source code and decides they can make the product better so they change the code to meet their requirements.  
 

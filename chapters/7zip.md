@@ -4,7 +4,7 @@
 
 ### Below are listed 3 things that you can do to get more space.
 
-1. **Buy a new hard drive.  **
+1. **Buy a new hard drive.**
 Even though prices of hard drive are coming down, it would still be and additional expense.  If you were to choose an internal drive it would require expertise in installing hardware in your computer and then you would have the problem of transferring the files from the old drive to the new one.
 
 1. **Delete old or unnecessary files.**  
