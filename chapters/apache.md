@@ -18,4 +18,4 @@ Installing it from the Apache mirrors is NOT for the faint of heart as they prov
 If you are interested in trying it on your local system, I recommend the XAMPP application.
 
 ## Why would you need this program?
-You would only need this program if you are planning on running your own web hosting system or if you just want to run a web server on your home or work system for local web development work (IntrAnet).
+You would only need this program if you are planning on running your own web hosting system or if you just want to run a web server on your home or work system for local web development work (IntrAnet as opposed to IntERnet).

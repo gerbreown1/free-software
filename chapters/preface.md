@@ -1,5 +1,7 @@
 # Preface
 
+## Notice: This guide is still a work in progress so some of the chapters are **NOT** complete yet.
+
 ## History
 This all started when I decided to create a blog site about the free software I have used. 
 
