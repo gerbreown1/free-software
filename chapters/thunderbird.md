@@ -1,12 +1,12 @@
 # How to manage your e-mails.
 
-## This is about the email manager application produced by Mozilla, the company that also produces the web browser Firefox.
+## This is about the email manager application called Thunderbird which is produced by Mozilla, the company that also produces the web browser Firefox.
 
-## Where to get it:
+## Where can you get it?
 
 [http://www.mozilla.org/en-US/thunderbird/all.html](http://www.mozilla.org/en-US/thunderbird/all.html).
 
-It is available in a bunch of languages and can be installed on Linux, Mac OS X or Windows.  Just select your language and operating system and then click on the Download link.
+It is available in a bunch of languages and can be installed on Linux, Mac or Windows.  Just select your language and operating system and then click on the Download link.
 
 This site will also tell you how to install and use it, which may change over time so I will let them tell you the latest information.
 
