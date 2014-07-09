@@ -2,6 +2,10 @@
 
 ## This is about the email manager application called Thunderbird which is produced by Mozilla, the company that also produces the web browser Firefox.
 
+**If you have 2 or more email accounts then this will be beneficial for your use.** 
+
+If you only have one account then this application will probably not be of use to you.
+
 ## Where can you get it?
 
 [http://www.mozilla.org/en-US/thunderbird/all.html](http://www.mozilla.org/en-US/thunderbird/all.html).

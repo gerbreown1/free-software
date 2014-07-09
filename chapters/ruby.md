@@ -1,4 +1,6 @@
-I was going to write a post about Softcover but decided that before I do I need to cover some of the dependencies that are required for it.  The post about Softcover will be coming shortly.
+# I was going to write a post about Softcover but decided that before I do I need to cover some of the dependencies that are required for it.  
+
+## The post about Softcover will be coming shortly.
 
 The first and major dependency is to have Ruby and Rubygems installed on your system.
 

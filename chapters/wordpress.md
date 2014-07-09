@@ -1,11 +1,11 @@
-# Wordpress
+# Create your own blog site.
 
-## What is it?
-It is software for creating your own personal **blog**.
+## How do I do this?
+Wordpress is the software for creating your own personal **blog**.
 
 ### Wordpress comes in two versions.
-1. One from Wordpress.com.
-1. One from Wordpress.org.
+1. From Wordpress.**com**.
+1. From Wordpress.**org**.
 
 ## Wordpress.com
 This website provides you with your own FREE blog. All you have to do is sign up for an account and then you can start creating your blog posts.

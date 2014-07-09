@@ -11,7 +11,7 @@ For the rest of you please continue reading to learn why *YOU* should also switc
 1. Most of the applications that are used with it are also FREE under the Open Source License.
 1. It is Open Source code so if you are so inclined, you can make changes to the source code.
 1. It is updated every 6 MONTHS, not every 4-6 **YEARS.**
-1. If your hard drive has enough free space, it can be installed alongside other operating systems, even more than one distribution of Linux.
+1. If your hard drive has enough free space, it can be installed alongside other operating systems, even more than one distribution of Linux. 
     
     Most current computer systems now have enough hard drive space available.  It can also be installed on older systems that will not/can not run the current bloated versions of Windows.
      
