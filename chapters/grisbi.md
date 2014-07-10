@@ -4,7 +4,7 @@
 Personal finance software.
 
 ## What operating system is it designed for: 
-Apple OS X, Linux (various distros) and Windows.
+Linux (various distros), Mac and Windows.
 
 ## Where it can be found: [http://www.grisbi.org/download.en.html](http://www.grisbi.org/download.en.html)
 
