@@ -1,7 +1,6 @@
-# Manage your finances with FREE Software - Grisbi
+# Manage your finances with FREE Software
 
-## What it is: 
-Personal finance software.
+## This is about a program called Grisbi which is personal finance software.
 
 ## What operating system is it designed for: 
 Linux (various distros), Mac and Windows.

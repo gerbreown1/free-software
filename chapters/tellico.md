@@ -1,8 +1,8 @@
-# Manage your library.
+# Manage your library, whether books, music software or others.
 
-## This is about a free library software programs.
+## This is about free library software programs.
 
-The first is called Tellico.
+### The first is called Tellico.
 
 ## Where is this available?
 
@@ -14,4 +14,17 @@ However at the time of this writing the current version in the repository is 2.3
 
 ## Other library managers.
 
-GCStar.
+### Another one that I have used is GCStar.
+
+## Where is this available?
+[http://wiki.gcstar.org/en/Install](http://wiki.gcstar.org/en/Install)
+
+## This application will operate on Linux, Mac and Windows.
+
+Both of these applications are very similar in operation.
+
+* Just enter a ISBN, Title or Author and press enter (If using a Bar Code Scanner it will put in the enter for you).
+* It will then scan the database that you specify for the information you entered. 
+    * There are a number of databases that you can choose from for your search.
+    * I found that _tellico_ is faster on finding the data.
+* Click the save button all of the information will be saved on your hard drive and it will be waiting for your next inquiry. 

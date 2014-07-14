@@ -24,7 +24,7 @@ There are many more reasons but I promised you 9 so that is what I have included
 ## What is Linux and where can you get it? 
 There are many versions available as stated in #3 above so I have included the chart below.
 
- According to [Distrowatch.com](Distrowatch.com) the following are the top 9 distributions (distros) as of December 17, 2013.
+ According to [distrowatch.com](distrowatch.com) the following are the top 9 distributions (distros) as of December 17, 2013.
  
 \begin{tabular}{|l|l|l|}
   \hline
